@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "Linux"
-title2: "Study" # default: ""
+title: "Linux study"
+title2: " of Hongseokzip" # default: ""
 description: "Linux study of Hongseokzip members"
 keywords: "linux, hongseokzip"
 url: https://hongseokzip.github.io/Linux_Study # site url
@@ -28,7 +28,7 @@ sass:
 # Author settings
 author:
   name     : "Hongseokzip"
-  job      : "Community"
+  job      : "community"
   bio      : "Welcome to Hongseokzip"
 
 gems:
