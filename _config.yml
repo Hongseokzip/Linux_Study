@@ -13,7 +13,7 @@ disqus_shortname: "hongseokzip"
 comments: true
 
 # Build settings
-permalink   : /:year/:title/
+permalink   : /:year/:month/:day/:title/
 markdown    : kramdown
 highlighter : rouge
 
