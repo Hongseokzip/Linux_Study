@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "리눅스커널 내부구조 1장"
-description: "리눅스커널 내부구조 1장"
+title: "리눅스커널 내부구조 1~2장"
+description: "리눅스커널 내부구조 1~2장"
 comments: true
 keywords: "linux kernel"
+author: 홍석준
 ---
 
 NFS
